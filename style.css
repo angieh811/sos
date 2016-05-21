@@ -1,10 +1,14 @@
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
 }
 li a:hover {
-    background-color: #eeeeee;
+    background-color: #aaaaaa;
     color: white;
 }
 .dropb{
@@ -24,7 +28,7 @@ li a:hover {
 .dd-content {
     display: none;
     position: absolute;
-    background-color: #eeeeee;
+    background-color: #aaaaaa;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
@@ -45,5 +49,5 @@ li a:hover {
 }
 
 .dropdown:hover .dropb {
-    background-color: #eeeeee;
+    background-color: #aaaaaa;
 }
