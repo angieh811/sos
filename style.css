@@ -13,6 +13,7 @@ margin:0 50px;
 /*nav bar*/
 .drop_menu {
 background:black;
+opacity:.50;
 padding:0;
 margin:0;
 list-style-type:none;
