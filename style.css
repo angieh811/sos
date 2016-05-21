@@ -1,6 +1,6 @@
 body{
 font-family:arial;
-background-image:url("/img/abg.jpeg");
+background-image:url("img/abg.jpeg");
 background-repeat:repeat;
 background-attachment:fixed;
 }
