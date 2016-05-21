@@ -5,7 +5,6 @@ ul {
     padding: 16px;
     font-size: 16px;
     border: none;
-    cursor: pointer;
 }
 li a:hover {
     background-color: #aaaaaa;
@@ -13,9 +12,6 @@ li a:hover {
 }
 .dropb{
     background-color: black;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
     border: none;
     cursor: pointer;
 }
