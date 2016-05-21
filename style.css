@@ -6,7 +6,7 @@ list-style-type:none;
 height:30px;
 }
 .drop_menu li {
-    float:left;
+    float:right;
 }
 .drop_menu li a {
 padding:9px 20px;
