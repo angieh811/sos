@@ -1,3 +1,12 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li a:hover {
+    background-color: #eeeeee;
+    color: white;
+}
 .dropb{
     background-color: black;
     color: white;
@@ -28,7 +37,7 @@
 }
 
 .dd-content a:hover {
-    background-color: gray
+    background-color: #eeeeee;
 }
 
 .dropdown:hover .dd-content {
@@ -36,5 +45,5 @@
 }
 
 .dropdown:hover .dropb {
-    background-color: #aaaaaa;
+    background-color: #eeeeee;
 }
