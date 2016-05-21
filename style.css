@@ -1,7 +1,6 @@
 body{
 font-family:arial;
-background-image:url("img/abg.PNG");
-background-repeat:repeat;
+background:url("img/abg.PNG") repeat;
 background-attachment:fixed;
 }
 
@@ -11,8 +10,6 @@ text-align:center;
 
 p{
 margin:0 50px;
-background-color:white;
-opacity:.50;
 }
 
 /*nav bar*/
@@ -74,4 +71,9 @@ width:70%;
 height:4px;  
 border:2px;  
 box-shadow:0 0 8px black;
+}
+/*translucent box*/
+div .trans {
+opacity:0.5;
+background-color:white;
 }
