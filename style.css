@@ -1,14 +1,10 @@
-.dropb {
+.dropb{
     background-color: black;
     color: white;
     padding: 16px;
     font-size: 16px;
     border: none;
     cursor: pointer;
-}
-
-.dropb:hover, .dropbtn:focus {
-    background-color: gray;
 }
 
 .dropdown {
@@ -31,6 +27,14 @@
     display: block;
 }
 
-.dd-content a:hover {background-color: #f1f1f1}
+.dd-content a:hover {
+    background-color: gray
+}
 
-.show {display:block;}
+.dropdown:hover .dd-content {
+    display: block;
+}
+
+.dropdown:hover .dropb {
+    background-color: #aaaaaa;
+}
