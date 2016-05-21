@@ -79,6 +79,5 @@ box-shadow:0 0 8px black;
 }
 /*translucent box*/
 div.trans {
-opacity:0.5;
-background-color:white;
+background-color:rgba(255,0,0,0.5);
 }
