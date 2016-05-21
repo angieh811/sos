@@ -10,6 +10,7 @@ ul {
 li a:hover {
     background-color: #aaaaaa;
     color: white;
+    display: inline;
 }
 .dropb{
     background-color: black;
@@ -23,7 +24,7 @@ li a:hover {
 
 .dropdown {
     position: relative;
-    display: inline;
+    display: inline-block;
 }
 
 .dd-content {
