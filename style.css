@@ -11,9 +11,10 @@ float:right;
 .drop_menu li a {
 padding:15px;
 display:block;
-color:#fff;
+color:white;
 text-decoration:none;
 font:16px arial;
+float:right;
 }
 .drop_menu ul {
 position:absolute;
