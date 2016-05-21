@@ -11,11 +11,13 @@ text-align:center;
 
 p{
 margin:0 50px;
+background-color:white;
+opacity:.50;
 }
 
 /*nav bar*/
 .drop_menu {
-background:black;
+background-color:black;
 opacity:.50;
 padding:0;
 margin:0;
@@ -44,13 +46,13 @@ list-style-type:none;
 }
 .drop_menu li:hover {
 position:relative;
-background:#aaaaaa;
+background:#555555;
 }
 
 .drop_menu li:hover ul {
 left:0px;
 top:30px;
-background:#aaaaaa;
+background:#555555;
 padding:0px;
 }
 
@@ -59,7 +61,7 @@ padding:5px;
 display:block;
 width:168px;
 text-indent:15px;
-background-color:#aaaaaa;
+background-color:#555555;
 }
 
 .drop_menu li:hover ul li a:hover {
