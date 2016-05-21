@@ -7,6 +7,9 @@ ul {
     border: none;
     float: right;
 }
+ul a {
+    color: white;
+}
 li a:hover {
     background-color: #aaaaaa;
     color: white;
