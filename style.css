@@ -6,10 +6,10 @@ list-style-type:none;
 height:30px;
 }
 .drop_menu li {
-    float:right;
+float:right;
 }
 .drop_menu li a {
-padding:9px 20px;
+padding:15px;
 display:block;
 color:#fff;
 text-decoration:none;
@@ -22,7 +22,8 @@ top:-9999px;
 list-style-type:none;
 }
 .drop_menu li:hover {
-    position:relative; background:#aaaaaa;
+position:relative;
+background:#aaaaaa;
 }
 .drop_menu li:hover ul {
 left:0px;
