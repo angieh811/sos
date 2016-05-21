@@ -73,7 +73,7 @@ border:2px;
 box-shadow:0 0 8px black;
 }
 /*translucent box*/
-div .trans {
+div.trans {
 opacity:0.5;
 background-color:white;
 }
