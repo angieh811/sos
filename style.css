@@ -63,9 +63,9 @@ background:black;
 }
 /*divider*/
 .divider {
-  margin-top:100px; margin-left:100px; width:400px; 
-  display:block;
-  width:70%; height:4px;  
-  border:2px;  
-  box-shadow:0 0 8px black;
-  }
+display:block;
+width:70%;
+height:4px;  
+border:2px;  
+box-shadow:0 0 8px black;
+}
