@@ -1,9 +1,13 @@
 body{
-  font-family:arial;
+font-family:arial;
 }
 
 h1{
-  float:middle;
+float:middle;
+}
+
+p{
+margin:20px;
 }
 
 /*nav bar*/
